@@ -1,3 +1,3 @@
-# Primer on Linear Regression
+# Testing Distributions 
 
-Primer on linear regression with statsmodels and scikit-learn
+Simple introduction on how to check the shapes of distributions and why it matters
